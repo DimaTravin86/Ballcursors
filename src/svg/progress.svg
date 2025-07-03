@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   viewBox="0 0 32 32"
+   id="svg23"
+   sodipodi:docname="wait.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="7.3694517"
+     inkscape:cx="84.606023"
+     inkscape:cy="-2.9852967"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23" />
+  <defs
+     id="defs5">
+    <filter
+       id="filter959-3"
+       x="-0.12"
+       y="-0.12"
+       width="1.24"
+       height="1.24"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.1"
+         id="feGaussianBlur2" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1095"
+       id="radialGradient1097"
+       cx="15.924933"
+       cy="16.16102"
+       fx="15.924933"
+       fy="16.16102"
+       r="13.045259"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.34479865,-0.83009243)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1095">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="0"
+         id="stop1091" />
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1"
+         offset="1"
+         id="stop1093" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <circle
+     r="13.045259"
+     cy="15.330929"
+     cx="16.269732"
+     id="path947"
+     style="fill:url(#radialGradient1097);fill-opacity:1;stroke:none;stroke-width:3.54223;stroke-linecap:round" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:7.36313px;line-height:1.25;font-family:sans-serif;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:0.184078"
+     x="6.7107663"
+     y="17.641798"
+     id="text6044"><tspan
+       sodipodi:role="line"
+       id="tspan6042"
+       x="6.7107663"
+       y="17.641798"
+       style="stroke-width:0.184078;fill:#aaaaaa;fill-opacity:1">ЖДИ</tspan></text>
+</svg>

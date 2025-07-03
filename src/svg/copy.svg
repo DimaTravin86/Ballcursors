@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="copy.svg"
+   id="svg34"
+   viewBox="0 0 32 32"
+   version="1.1"
+   height="32"
+   width="32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     inkscape:current-layer="svg34"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="16.785214"
+     inkscape:cx="-3.0248972"
+     inkscape:zoom="16.860077"
+     showgrid="false"
+     id="namedview36"
+     inkscape:window-height="1007"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:pagecheckerboard="1" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1613"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.8975494,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="gears"
+       id="path-effect1611"
+       is_visible="true"
+       lpeversion="1"
+       teeth="10"
+       phi="5"
+       min_radius="5" />
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.2399999"
+       width="1.2399999"
+       y="-0.11999995"
+       x="-0.11999995"
+       id="a-3-3-5-3">
+      <feGaussianBlur
+         id="feGaussianBlur4"
+         stdDeviation="0.64999976" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.2048636"
+       width="1.2896825"
+       y="-0.10243182"
+       x="-0.14484123"
+       id="filter879-3">
+      <feGaussianBlur
+         id="feGaussianBlur7"
+         stdDeviation="0.68281724" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1095"
+       id="radialGradient1097"
+       cx="15.924933"
+       cy="16.16102"
+       fx="15.924933"
+       fy="16.16102"
+       r="13.045259"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.39389643,-0.36244196)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1095">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="0"
+         id="stop1091" />
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1"
+         offset="1"
+         id="stop1093" />
+    </linearGradient>
+  </defs>
+  <circle
+     r="13.045259"
+     cy="15.79858"
+     cx="15.531038"
+     id="path947"
+     style="fill:url(#radialGradient1097);fill-opacity:1;stroke:none;stroke-width:3.54223;stroke-linecap:round" />
+  <path
+     id="rect1353"
+     style="fill:#4d4d4d;stroke-width:113.67"
+     d="M 9.8270843,8.3671522 H 17.861582 V 20.851516 H 7.9295349 V 10.264702 A 1.8975494,1.8975494 135 0 1 9.8270843,8.3671522 Z"
+     inkscape:path-effect="#path-effect1613"
+     inkscape:original-d="M 7.9295349,8.3671522 H 17.861582 V 20.851516 H 7.9295349 Z" />
+  <rect
+     style="fill:#b3b3b3;stroke:none;stroke-width:113.67"
+     id="rect1457"
+     width="9.9320469"
+     height="12.484364"
+     x="10.880061"
+     y="10.928386"
+     ry="1.5356915" />
+</svg>
